@@ -1,16 +1,8 @@
-{
-    "Nome": "Thiago",
-    "CPF": "564546548",
-    "Nascimento": "06031987",
-    "Saldo": 0
-}{
-    "Nome": "Carol",
-    "CPF": "564546548",
-    "Nascimento": "06031987",
-    "Saldo": 0
-}{
-    "Nome": "Carol",
-    "CPF": "564546548",
-    "Nascimento": "06031987",
-    "Saldo": 0
-}
+[
+    {
+        "Nome": "Jonas",
+        "CPF": "123456",
+        "Nascimento": "06-03-1987",
+        "Saldo": 0
+    }
+]
