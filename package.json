@@ -1,0 +1,17 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "module": "system",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "newAcc": "tsc && node build/newacc.js",
+    "allAcc": "tsc && node build/allacc.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "moment": "^2.24.0"
+  }
+}
